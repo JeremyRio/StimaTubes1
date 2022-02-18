@@ -4,7 +4,7 @@
 ## Daftar Isi
 * [Deskripsi](#deskripsi)
 * [Requirements](#requirements)
-* [Langkah Menjalankan Program](#langkah)
+* [Langkah Menjalankan Program](#langkah-menjalankan-program)
 * [Penulis](#penulis)
 
 ## Deskripsi
