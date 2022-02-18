@@ -4,7 +4,7 @@
 ## Daftar Isi
 * [Deskripsi](#deskripsi)
 * [Requirements](#requirements)
-* [Menjalankan Program](#menjalankan)
+* [Langkah Menjalankan Program](#langkah)
 * [Penulis](#penulis)
 
 ## Deskripsi
@@ -23,9 +23,10 @@ Ketika menghindari rintangan, program akan menentukan jalur terbaik berdasarkan 
 - [Maven](https://maven.apache.org/)
 
 ### Langkah Menjalankan Program
-
+</br>
 ### 1. Build Program Menggunakan Maven (**Windows**)
 Build bertujuan untuk membuat file .jar yang akan digunakan game engine untuk menjalankan permainan. Ada 2 metode yang dapat digunakan untuk build program.
+</br>
 
 #### A. Menggunakan IntelliJ (**Recommended**)
 1. Melakukan instalasi IntelliJ (aplikasi dapat ditemukan dari https://www.jetbrains.com/idea/ )
@@ -46,7 +47,7 @@ Build bertujuan untuk membuat file .jar yang akan digunakan game engine untuk me
 ```
 mvn clean install
 ```
-
+</br>
 
 ### 2. Mengatur Permainan
 1. Membuka file **(game-runner-config.json)**
@@ -54,13 +55,13 @@ mvn clean install
 ![image](https://user-images.githubusercontent.com/40627156/154695364-3009e223-e082-4f77-9e4c-4c7bad3630ac.png)
 
 2. Mengubah tulisan di bagian player-a menjadi PATH menuju folder tempat bot disimpan (folder java)
-
+</br>
 
 ### 3. Menjalankan Permainan
 Permainan dijalankan dengan menjalankan file run.bat
 
 ![image](https://user-images.githubusercontent.com/40627156/154695678-c46c4384-8ca2-406e-9fc8-66f7b296f4df.png)
-
+</br>
 
 ## Penulis
 <table>
