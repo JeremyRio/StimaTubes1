@@ -3,7 +3,7 @@
 ## Daftar Isi
 * [Deskripsi](#deskripsi)
 * [Requirements](#requirements)
-* [Penggunaan](#penggunaan)
+* [Menjalanakan Program](#Langkah Menjalankan Program)
 * [Penulis](#penulis)
 
 ## Deskripsi
@@ -27,6 +27,7 @@ Build bertujuan untuk membuat file .jar yang akan digunakan game engine untuk me
 #### A. Menggunakan IntelliJ (**Recommended**)
 1. Melakukan instalasi IntelliJ (aplikasi dapat ditemukan dari https://www.jetbrains.com/idea/ )
 2. Buka folder "Java" tempat program bot ditemukan.
+
 ![image](https://user-images.githubusercontent.com/40627156/154693437-92be8bc4-a363-4e7e-b6aa-5b4a7ce8e75b.png)
 
 3. Menekan tombol Maven di kanan atas layar dan melakukan build dengan menekan tombol install
@@ -42,3 +43,16 @@ mvn clean install
 ```
 
 ### 2. Mengatur Permainan
+1. Membuka file **(game-runner-config.json)**
+
+![image](https://user-images.githubusercontent.com/40627156/154695364-3009e223-e082-4f77-9e4c-4c7bad3630ac.png)
+
+2. Mengubah tulisan di bagian player-a menjadi PATH menuju folder tempat bot disimpan (folder java)
+
+
+### 3. Menjalankan Permainan
+Permainan dijalankan dengan menjalankan file run.bat
+
+![image](https://user-images.githubusercontent.com/40627156/154695678-c46c4384-8ca2-406e-9fc8-66f7b296f4df.png)
+
+
