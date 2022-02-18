@@ -4,15 +4,15 @@
 ## Daftar Isi
 * [Deskripsi](#deskripsi)
 * [Requirements](#requirements)
-* [Menjalanakan Program](#menjalankan program)
+* [Menjalanakan Program](#menjalankan)
 * [Penulis](#penulis)
 
 ## Deskripsi
 Membuat program bot berdasarkan algoritma greedy untuk memenangkan permainan Overdrive. Algoritma greedy memprioritaskan strategi untuk menyerang lawan sambil menghindari rintangan di jalan. Prioritas Algoritma dimulai dari yang paling penting adalah sebagai berikut :
 
-1. Menghindari rintangan
-2. Menyerang mobil lawan
-3. Mencapai kecepatan maksimum
+1. Memperbaiki mobil 
+2. Menghindari rintangan
+3. Menggunakan PowerUp dengan prioritas menyerang lawan
 
 Ketika menghindari rintangan, program akan menentukan jalur terbaik berdasarkan jumlah rintangan dan PowerUp yang ada pada baris tersebut sehingga pemain memiliki lebih banyak PowerUp yang dapat digunakan untuk menyerang musuh.
 
