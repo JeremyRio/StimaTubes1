@@ -22,8 +22,8 @@ Ketika menghindari rintangan, program akan menentukan jalur terbaik berdasarkan 
 - [IntelliJ](https://www.jetbrains.com/idea/) **(Recommended)**
 - [Maven](https://maven.apache.org/)
 
-### Langkah Menjalankan Program
-</br>
+## Langkah Menjalankan Program
+
 ### 1. Build Program Menggunakan Maven (**Windows**)
 Build bertujuan untuk membuat file .jar yang akan digunakan game engine untuk menjalankan permainan. Ada 2 metode yang dapat digunakan untuk build program.
 </br>
