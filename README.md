@@ -41,8 +41,14 @@ Build bertujuan untuk membuat file .jar yang akan digunakan game engine untuk me
 
 #### B. Menggunakan Maven Di Terminal Komputer
 1. Melakukan instalasi Maven (file instalasi dapat ditemukan di https://maven.apache.org/download.cgi )
-2. Buka folder "Java" tempat program bot ditemukan
-3. Memasukkan perintah
+2. Pasang dan tulis path untuk maven pada environment variables seperti gambar berikut:
+
+![image](https://user-images.githubusercontent.com/73146752/154710965-d916cad8-97f6-4b5d-9465-e7846b7a8d0c.png)
+![image](https://user-images.githubusercontent.com/73146752/154711085-f1923afd-53d1-4424-9789-dda15046b6b8.png)
+![image](https://user-images.githubusercontent.com/73146752/154711242-f63a00df-7c63-423f-8e02-9e2ec0db3ea4.png)
+
+4. Buka folder "Java" tempat program bot ditemukan
+5. Memasukkan perintah
 
 ```
 mvn clean install
