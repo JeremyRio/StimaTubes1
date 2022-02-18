@@ -1,9 +1,10 @@
-# StimaTubes1
+# Tugas Besar 1 IF2211 Strategi Algoritma
+> Penggunaan Algoritma Greedy Dalam Pembuatan Bot Untuk Permainan Overdrive
  
 ## Daftar Isi
 * [Deskripsi](#deskripsi)
 * [Requirements](#requirements)
-* [Menjalanakan Program](#Langkah Menjalankan Program)
+* [Menjalanakan Program](#menjalankan program)
 * [Penulis](#penulis)
 
 ## Deskripsi
@@ -31,6 +32,7 @@ Build bertujuan untuk membuat file .jar yang akan digunakan game engine untuk me
 ![image](https://user-images.githubusercontent.com/40627156/154693437-92be8bc4-a363-4e7e-b6aa-5b4a7ce8e75b.png)
 
 3. Menekan tombol Maven di kanan atas layar dan melakukan build dengan menekan tombol install
+
 ![image](https://user-images.githubusercontent.com/40627156/154693758-b0263be8-be29-480c-a8c0-4789acc03b23.png)
 
 #### B. Menggunakan Maven Di Terminal Komputer
@@ -55,4 +57,23 @@ Permainan dijalankan dengan menjalankan file run.bat
 
 ![image](https://user-images.githubusercontent.com/40627156/154695678-c46c4384-8ca2-406e-9fc8-66f7b296f4df.png)
 
+## Penulis
+<table>
+    <tr>
+      <td><b>Nama</b></td>
+      <td><b>NIM</b></td>
+    </tr>
+    <tr>
+      <td><b>William Manuel Kurniawan</b></td>
+      <td><b>13520020</b></td>
+    </tr>
+    <tr>
+      <td><b>Yohana Golkaria Nainggolan</b></td>
+      <td><b>13520053</b></td>
+    </tr>
+    <tr>
+      <td><b>Jeremy Rionaldo Pasaribu</b></td>
+      <td><b>13520082</b></td>
+    </tr>
+</table>
 
